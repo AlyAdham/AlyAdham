@@ -42,7 +42,7 @@
 - Trained CNN with TensorFlow on MNIST  
 - High accuracy on handwritten digit classification
 
-### 🧠 [Trivia Memory Card Game](https://github.com/your-username/trivia-memory-game)
+### 🧠 [Trivia Memory Card Game](https://github.com/AlyAdham/TriviaGame)
 - Built with HTML/CSS/JavaScript  
 - Card match game with trivia popups by category
 
@@ -50,6 +50,6 @@
 
 ## 📫 Connect with Me
 
-- 📧 your.email@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🌍 Portfolio Website (coming soon!)
+- 📧 aliadham238@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/aly-adham-545712291/) 
+
