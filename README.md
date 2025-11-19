@@ -18,6 +18,17 @@
 
 ## 💼 Experience
 
+
+###📊 Data Analyst Intern – L’Oréal | Jul–Aug 2025
+
+- Analyzed sales and marketing datasets to identify performance trends
+
+- Created automated dashboards and reports using Python, SQL, and Excel
+
+- Supported forecasting models to improve campaign targeting
+
+- Collaborated with cross-functional teams to deliver data-driven insights
+
 ### 🔐 Cybersecurity Intern – PAS | Jul–Aug 2023
 - Performed vulnerability assessments on systems and networks  
 - Supported network monitoring with Wireshark and Metasploit
