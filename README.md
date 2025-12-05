@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alyeldeen Adham
+# 👋 Hi, I'm Aly Adham
 
 🎓 **Computer Science (AI Track)** student at AAST  
 💡 Passionate about Artificial Intelligence, Software Engineering, and Digital Transformation  
